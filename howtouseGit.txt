@@ -17,5 +17,5 @@ you can do this
  6. git reflog //print HEAD's update log
  7. git rm //remove file on branch
     git rm --cashed //remove 
-
+ 8. git merge //merge file between two user
 
